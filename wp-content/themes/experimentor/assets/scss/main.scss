@@ -1,6 +1,9 @@
-@import './variables';
+@import './variables.scss';
 @import './global.scss';
 
 // Layout
 @import './footer.scss';
 @import './header.scss';
+
+// Posts layout
+@import './post_layouts.scss';

@@ -22,7 +22,7 @@
             <div class="container">
                 <div class="site_header_content">
                     <div class = "site_logo">
-						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.jpg" alt="">
+						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo_new.png" alt="">
 					</div>
                     <nav class="experimentor_navbar">
                         <?php wp_nav_menu(
